@@ -1,0 +1,1 @@
+Este arquivo tem como propósito checar a atualização do repositório remoto a partir do repositório local.
